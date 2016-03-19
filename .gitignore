@@ -1,0 +1,9 @@
+results*
+*txt
+*~
+*pyc
+build
+dist
+*.egg-info
+*json
+*html
